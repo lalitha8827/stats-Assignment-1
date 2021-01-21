@@ -1,7 +1,6 @@
 # stats-Assignment-1
 
 Problem Statement 1:
-
 The marks awarded for an assignment set for a Year 8 class of 20 students were as
 follows:
 6 7 5 7 7 8 7 6 9 7 4 10 6 8 8 9 5 6 4 8
