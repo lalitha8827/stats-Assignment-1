@@ -1,9 +1,11 @@
 # stats-Assignment-1
 
 Problem Statement 1:
+
 The marks awarded for an assignment set for a Year 8 class of 20 students were as
 follows:
 6 7 5 7 7 8 7 6 9 7 4 10 6 8 8 9 5 6 4 8
+
 
 Problem Statement 2:
 
@@ -13,6 +15,7 @@ particular month:
 100, 75, 104, 97, 75,
 123, 100, 75, 104, 97, 75, 123, 100, 89, 120, 109
 
+
 Problem Statement 3:
 
 The number of times I go to the gym in weekdays, are given below along with its
@@ -20,6 +23,7 @@ associated probability:
 x = 0, 1, 2, 3, 4, 5
 f(x) = 0.09, 0.15, 0.40, 0.25, 0.10, 0.01
 Calculate the mean no. of workouts in a week. Also evaluate the variance involved in it.
+
 
 Problem Statement 4:
 
@@ -31,12 +35,14 @@ Historical data shows that the distribution of D can be modelled by the PDF (d) 
 what is the proportion of those parts? What is the CDF when the diameter is of 11
 mm? What is your conclusion regarding the proportion of scraps?
 
+
 Problem Statement 5:
 
 A company manufactures LED bulbs with a faulty rate of 30%. If I randomly select 6
 chosen LEDs, what is the probability of having 2 faulty LEDs in my sample?
 Calculate the average value of this process. Also evaluate the standard deviation
 associated with it.
+
 
 Problem Statement 6:
 
@@ -48,12 +54,14 @@ correct solutions? What do you infer from it? What are the two main governing
 factors affecting their ability to solve questions correctly? Give a pictorial
 representation of the same to validate your answer.
 
+
 Problem Statement 7:
 
 Customers arrive at a rate of 72 per hour to my shop. What is the probability of k
 customers arriving in 4 minutes? a) 5 customers, b) not more than 3 customers, c)
 more than 3 customers. Give a pictorial representation of the same to validate your
 answer.
+
 
 Problem Statement 8:
 
@@ -66,6 +74,7 @@ How is the λ affected?
 How does it influence the PMF?
 Give a pictorial representation of the same to validate your answer.
 
+
 Problem Statement 9:
 
 Let the continuous random variable D denote the diameter of the hole drilled in an
@@ -77,12 +86,14 @@ what is the proportion of those parts? What is the CDF when the diameter is of 1
 mm?
 What is the conclusion of this experiment?
 
+
 Problem Statement 10:
 
 Please compute the following:
 a) P(Z > 1.26), . P(Z < −0.86), P(Z > −1.37), P(−1.25 < Z < 0.37), . P(Z ≤ −4.6)
 b) Find the value z such that P(Z > z) = 0.05
 c) Find the value of z such that P(−z < Z < z) = 0.99
+
 
 Problem Statement 11:
 
@@ -91,6 +102,7 @@ and a variance of 4 (mA)2.
 What is the probability that a current measurement will exceed 13 mA? What is the
 probability that a current measurement is between 9 and 11mA? Determine the
 current measurement which has a probability of 0.98.
+
 
 Problem Statement 12:
 
